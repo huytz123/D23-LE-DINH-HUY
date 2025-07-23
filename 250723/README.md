@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-c:\Users\Huy\Documents\GitHub\D23-LE-DINH-HUY\README.md
-=======
+
 # D23_LE-DINH-HUY
 ## BAO CAO HOM NAY 
 ```c
