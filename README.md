@@ -46,10 +46,10 @@ b, Điều khiển 8 Led
 
 * void Turn_on_turm_off_led (GPIO_TypeDef*GPIOBUTTONx,uint16_t BUTTON_PIN,GPIO_TypeDef*GPIOLEDx,uint16_t LED_Pin)
 
-  GPIOBUTTONx   Cổng GPIO chứa nút nhấn (VD: GPIOA)
-  BUTTON_PIN    Chân GPIO của nút nhấn (VD: PA0)
-  GPIOLEDx      Cổng GPIO điều khiển LED (VD: GPIOC)
-  LED_Pin       Chân GPIO của LED (VD: PC13)
+ * GPIOBUTTONx   Cổng GPIO chứa nút nhấn (VD: GPIOA)
+ * BUTTON_PIN    Chân GPIO của nút nhấn (VD: PA0)
+ * GPIOLEDx      Cổng GPIO điều khiển LED (VD: GPIOC)
+ * LED_Pin       Chân GPIO của LED (VD: PC13)
 
 * Mục đích của hàm:
 
